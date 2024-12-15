@@ -19,7 +19,7 @@ Allows users to filter data by employee ID, department, and project goals dynami
 
 ## Tools and Technologies Used
 1. Power BI Desktop: For data modeling, analysis, and visualization.
-2. Dataset: Employee and project-related data (as shown in the tutorial).
+2. Dataset: Employee and project-related data.
 3. SQL Analysis: Writing and executing complex SQL queries for exploration and aggregation.
 
 ## Key Visualizations
